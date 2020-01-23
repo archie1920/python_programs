@@ -1,4 +1,4 @@
-#program to revers the given string
+#program to revers the given string and check palindrome string
 
 def revstr(s):
     if len(s) == 0:
